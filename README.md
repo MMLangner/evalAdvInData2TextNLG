@@ -1,13 +1,11 @@
 # evalAdvInData2TextNLG
-Supplementary Meterial for the INLG 2023 submission "Validating Predictive Models Of Evaluative Language For Controllable Data2Text Generation"
+"Supplementary material for the INLG 2023 paper "Validating Predictive Models Of Evaluative Language For Controllable Data2Text Generation"
 
- This directory contains supplementary material for the INLG 2023 submission 
- "Validating Predictive Models Of Evaluative Language For Controllable Data2Text
- Generation". As long as the submission is under review, this repository will 
- be anonymized.
+This directory contains supplementary material for the paper "Validating Predictive Models Of Evaluative Language For Controllable Data2Text Generation",
+accepted for the 16th International Natural Language Generation Conference (INLG 2023)."
 
- Code, web application and data are published under GNU General Public License V3.
- Please refer to the respective license in this github repository.
+Code, web application and data are published under GNU General Public License V3.
+Please refer to the respective license in this github repository.
 
 
  /additional_graphs_and_plots_technical_database
